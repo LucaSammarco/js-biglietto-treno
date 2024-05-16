@@ -35,6 +35,6 @@ else {
     document.getElementById("my_Ticket").innerHTML = ticketPrice.toFixed(2);
 }
 
-
+//prova
 
 
